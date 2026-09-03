@@ -1,0 +1,6 @@
+{
+  "name": "Institutional Document Tracking System",
+  "description": "A modern government Document Management & Tracking System (DMS) with room routing queues (Room 1 Manager Admin to Room 5), Intake classification, and Company archive vault in Kurdish Sorani.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
